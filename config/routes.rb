@@ -12,5 +12,4 @@ Rails.application.routes.draw do
   end
 
   root 'root#index'
-  
 end
