@@ -1,11 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-
-
-  <h1><b>hello-rails-back-end</b></h1>
-
+  <h1><b>Hello-rails-back-end</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -73,9 +69,9 @@ This is a good template for applications that uses rails API.
 
 in order to run this project you need:
 
+```
 gem install rails
-
-
+```
 
 
 ## Getting Started
